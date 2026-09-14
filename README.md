@@ -1,4 +1,3 @@
-# carieeer-hatzbot-el-maradi
 
 # Deep Dive
 
